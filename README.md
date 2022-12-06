@@ -1,6 +1,6 @@
 ## Hey, wake up! 🧚‍♀️
 
-I’m [Tiger-222](https://www.tiger-222.fr), or Mickaël Schoentgen IRL!
+I’m [Tiger-222](https://www.tiger-222.fr), or Mickaël Schoentgen IRL.
 
 <!--
 **BoboTiG/BoboTiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
