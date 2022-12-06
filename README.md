@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![My GitHub stats](
 https://github-readme-stats.vercel.app/api?username=BoboTiG&show_icons=true&count_private=true&theme=midnight-purple)
+
+![Not very accurate, but still skills](https://github-readme-stats.vercel.app/api/top-langs/?username=BoboTiG&langs_count=2&layout=compact&theme=midnight-purple)
