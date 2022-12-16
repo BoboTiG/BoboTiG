@@ -1,4 +1,4 @@
-## Hey, wake up! 🧚‍♀️
+## Hey, listen! 🧚‍♀️
 
 I’m [Tiger-222](https://www.tiger-222.fr), or Mickaël Schoentgen IRL.
 
