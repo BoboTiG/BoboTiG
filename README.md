@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BoboTiG&hide_title=true&show_icons=true&count_private=true&theme=midnight-purple&ring_color=ff7f50&include_all_commits=true&version=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=BoboTiG&row=1&column=-1&margin-w=15&theme=gruvbox&rank=SECRET,SSS,SS,S)
 
+<!--
 ![Not very accurate, but still skills](https://github-readme-stats.vercel.app/api/top-langs/?username=BoboTiG&hide_title=true&langs_count=2&layout=compact&theme=midnight-purple&version=1)
+-->
