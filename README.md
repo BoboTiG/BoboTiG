@@ -2,6 +2,11 @@
 
 I’m [Tiger-222](https://www.tiger-222.fr), or Mickaël Schoentgen IRL.
 
+Among pinned personal projects, I am also maintainer for those projects:
+ 
+- [MARISA trie](https://github.com/pytries/marisa-trie)
+- [watchdog](https://github.com/gorakhargosh/watchdog)
+
 <!--
 **BoboTiG/BoboTiG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
