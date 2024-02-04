@@ -4,6 +4,7 @@ I’m [Tiger-222](https://www.tiger-222.fr), or Mickaël Schoentgen IRL.
 
 Among pinned personal projects, I am also maintainer of those *awesome* projects:
 
+- [BoboTiG/shaarlimages](https://github.com/BoboTiG/shaarlimages) ![GitHub Repo stars](https://img.shields.io/github/stars/BoboTiG/shaarlimages)
 - [pytries/marisa-trie](https://github.com/pytries/marisa-trie) ![GitHub Repo stars](https://img.shields.io/github/stars/pytries/marisa-trie)
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) ![GitHub Repo stars](https://img.shields.io/github/stars/gorakhargosh/watchdog)
 
