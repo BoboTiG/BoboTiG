@@ -2,6 +2,9 @@
 
 I’m [Tiger-222](https://www.tiger-222.fr), or Mickaël Schoentgen IRL.
 
+> [!TIP]
+> Don't be shy! If my work is/was of any kind of help, sponsorship/donations was/are/will be very well appreciated 💖, thanks to you!
+
 Apart from pinned personal projects, those **hardware-specific** ones might be of interest:
 - [BoboTiG/thermalprinter](https://github.com/BoboTiG/thermalprinter), a Python module to manage the DP-EH600 thermal printer (and derived) ![GitHub Repo stars](https://img.shields.io/github/stars/BoboTiG/thermalprinter)
 - [BoboTiG/python-wks-com](https://github.com/BoboTiG/python-wks-com), a Python module, and executable, to communicate with your inverter (WKS ECO Circle) ![GitHub Repo stars](https://img.shields.io/github/stars/BoboTiG/python-wks-com)
