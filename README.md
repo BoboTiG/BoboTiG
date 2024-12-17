@@ -22,7 +22,7 @@ I am also maintainer of those *awesome* projects:
 - [pytries/marisa-trie](https://github.com/pytries/marisa-trie), a static memory-efficient Trie-like structures for Python based on marisa-trie C++ library ![GitHub Repo stars](https://img.shields.io/github/stars/pytries/marisa-trie)
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog), a Python library and shell utilities to monitor filesystem events ![GitHub Repo stars](https://img.shields.io/github/stars/gorakhargosh/watchdog)
 
-But wait, thar are more, don't let old/unpopular ones to be lost in the deep universe: [all public repositories](https://github.com/BoboTiG?tab=repositories).
+But wait! There are even **more gems**: [all public repositories](https://github.com/BoboTiG?tab=repositories).
 
 ---
 
