@@ -10,6 +10,7 @@ Apart from pinned personal projects, those **hardware-specific** ones might be o
 - [BoboTiG/python-wks-com](https://github.com/BoboTiG/python-wks-com), a Python module, and executable, to communicate with your inverter (WKS ECO Circle) ![GitHub Repo stars](https://img.shields.io/github/stars/BoboTiG/python-wks-com)
 
 Or maybe something totally different like:
+- [BoboTiG/dusk-monitor](https://github.com/BoboTiG/dusk-monitor), a dumb'n simple website to display & sync Dusk node metrics ![GitHub Repo stars](https://img.shields.io/github/stars/BoboTiG/dusk-monitor)
 - [BoboTiG/gps-map-hikers](https://github.com/BoboTiG/gps-map-hikers), a full project for adventurers : a GPS map for Hikers ![GitHub Repo stars](https://img.shields.io/github/stars/BoboTiG/gps-map-hikers)
 - [BoboTiG/secret-santa](https://github.com/BoboTiG/secret-santa), well ... Secret Santa! But it can be use at any times ![GitHub Repo stars](https://img.shields.io/github/stars/BoboTiG/secret-santa)
 - [BoboTiG/python-fastest-json-module](https://github.com/BoboTiG/python-fastest-json-module), guess what is the best JSON drop-in module in the Python ecosystem ![GitHub Repo stars](https://img.shields.io/github/stars/BoboTiG/python-fastest-json-module)
