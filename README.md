@@ -3,7 +3,7 @@
 I’m [Tiger-222](https://www.tiger-222.fr), or Mickaël Schoentgen IRL.
 
 > [!TIP]
-> Don't be shy! If my work *was/is/will be* of any kind of help, sponsorship/donations *were/are/will be* very well appreciated 💖, thanks to you!
+> [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/mschoentgen)
 
 Apart from pinned personal projects, those **hardware-specific** ones might be of interest:
 - [BoboTiG/thermalprinter](https://github.com/BoboTiG/thermalprinter), a Python module to manage the DP-EH600 thermal printer (and derived) ![GitHub Repo stars](https://img.shields.io/github/stars/BoboTiG/thermalprinter)
