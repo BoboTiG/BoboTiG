@@ -3,6 +3,8 @@
 I’m [Tiger-222](https://www.tiger-222.fr), or Mickaël Schoentgen IRL.
 
 > [!TIP]
+> Become **my boss** to help me work on open-source softwares, and make the world better:
+> 
 > [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/mschoentgen)
 
 Apart from pinned personal projects, those **hardware-specific** ones might be of interest:
