@@ -2,6 +2,10 @@
 
 I’m [Tiger-222](https://www.tiger-222.fr), or Mickaël Schoentgen IRL.
 
+💝 I work hard on that huge project: [Reader Dict](https://www.reader-dict.com) (it is just about the **best bilingual & monolingual dictionaries** you can find out there for your **beloved eBook reader**).
+
+---
+
 > [!TIP]
 > Become **my boss** to help me work on open-source softwares, and make the world better:
 > 
